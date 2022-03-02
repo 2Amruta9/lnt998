@@ -1,4 +1,10 @@
 today is tuesday
 month is march
 year is 2022
+<<<<<<< HEAD
 pushpa is good moive
+=======
+amruta bhalekar
+git repository todays lecture
+war 3 world
+>>>>>>> branch-1
