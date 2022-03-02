@@ -1,0 +1,2 @@
+the file name is hello
+today is git's lecture.
